@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/UzairShekhani/Weather-App/blob/main/Capture8.PNG alt=" Weather App" width="300">
+  <img src=https://github.com/UzairShekhani/Weather-App/blob/main/Capture8.PNG alt=" Weather App" width="300">
 </div>
 
 # Weather App
